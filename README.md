@@ -19,5 +19,6 @@ The same token is required to decrypt the image back to its original form.
 - Graphical user interface for easy interaction.  
 - Automatically saves encrypted and decrypted images.  
 - Generates and stores a token file for each encrypted image.
+- Choose the token to encrypt the image, or leave blank to generate randomly.
 
 ---
